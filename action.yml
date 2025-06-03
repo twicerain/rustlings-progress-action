@@ -1,0 +1,10 @@
+name: "Rustlings Progress Updater"
+description: "Updates your README with your current Rustlings exercise and progress table"
+author: "your-name-or-handle"
+inputs: {}
+runs:
+  using: "composite"
+  steps:
+    - shell: bash
+      run: |
+        ./entrypoint.sh
