@@ -2,21 +2,21 @@
 
 ## Rustlings Progress
 
-**Currently working on:** ``
+**Currently working on:** `variables5`
 
-**0 of 94 completed (0.0%)**
-[#>---------------------------------------]
+**6 of 94 completed (6.4%)**
+[##>-------------------------------------]
 
 ## 📋 Exercise Completion Table
 
 | Exercise Name | Completion |
 |---------------|------------|
-| `intro1` | ❌ |
-| `intro2` | ❌ |
-| `variables1` | ❌ |
-| `variables2` | ❌ |
-| `variables3` | ❌ |
-| `variables4` | ❌ |
+| `intro1` | ✅ |
+| `intro2` | ✅ |
+| `variables1` | ✅ |
+| `variables2` | ✅ |
+| `variables3` | ✅ |
+| `variables4` | ✅ |
 | `variables5` | ❌ |
 | `variables6` | ❌ |
 | `functions1` | ❌ |
