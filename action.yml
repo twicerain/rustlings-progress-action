@@ -1,6 +1,9 @@
 name: "Rustlings Progress Updater"
 description: "Updates your README with your current Rustlings exercise and progress table"
-author: "your-name-or-handle"
+author: "soda3x"
+branding:
+  icon: check-square
+  color: red
 inputs: {}
 runs:
   using: "composite"
