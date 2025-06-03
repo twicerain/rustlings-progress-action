@@ -8,5 +8,9 @@ inputs: {}
 runs:
   using: "composite"
   steps:
-    - shell: bash
+    - name: Fix permissions on script
+      shell: bash
+      run: chmod +x entrypoint.sh
+    - name: Run README updater script
+      shell: bash
       run: ./entrypoint.sh
