@@ -1,3 +1,5 @@
+#!/bin/bash
+
 set -euxo pipefail
 
 if [ ! -f .rustlings-state.txt ]; then
