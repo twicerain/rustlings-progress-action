@@ -9,5 +9,4 @@ runs:
   using: "composite"
   steps:
     - shell: bash
-      run: |
-        ./entrypoint.sh
+      run: ./entrypoint.sh
